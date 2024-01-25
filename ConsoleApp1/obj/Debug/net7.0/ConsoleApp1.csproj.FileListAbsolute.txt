@@ -1,0 +1,29 @@
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/home/KHPK.RU/student/Рабочий стол/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
+D:\practice\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+D:\practice\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\practice\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\practice\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+D:\practice\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\practice\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
